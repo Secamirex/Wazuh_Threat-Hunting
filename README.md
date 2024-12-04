@@ -1,6 +1,6 @@
 # Wazuh Threat Hunting
 
-Objective: To perform brute force attack on Windows endpoint and monitor the authentication failure attempts on Wazuh Threat Hunting 
+Objective: To perform brute force attack on Windows 10 and Linux Ubuntu endpoints and monitor the authentication failure attempts on Wazuh Threat Hunting 
 
 <h2>Configuration Steps</h2>
 
